@@ -23,6 +23,8 @@ Two prints of the program can be placed into the information display continuusly
 
 <img src="program.jpg">
 
+<img src="logo-60.jpg">
+
 
 
 
