@@ -1,7 +1,7 @@
 # Jindrich Polivka
                                  
 ## Hi, Iam Jindra 
-<img align="right" width="270" height="200" src="logo1.jpg">
+<img align="right" width="600" height="600" src="logo1.jpg">
                                        
 ## Visual identity for a small Prague  theatre
 The plain look reflects look of the stage and auditorium as well as nature of the plays presented in it. These often use little to none in terms of scenery and costumes. The stage also host intimate musical performances and book readings besides theatrical plays.
