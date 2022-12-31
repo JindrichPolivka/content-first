@@ -19,19 +19,28 @@ Posters work with a portrait of the leading actor(s), which alludes to the intim
 In case of this format not being applicable, the name of the play and castin change places and and are accompanied by a photograph from the play depicting an action rather than a portrait.
 
 Performances aiming at children use a full color image and carrry a  „for children“ tag.
-                                                                                                                                                      
 
+## program
+
+<img src="program.jpg">
 
 All information in the program follows typographical rules set fo our posters. Hosting performance falls in line chronologically, but is highlighted with horizontal lines.
 
 Two prints of the program can be placed into the information display continuusly flowing from one side to the next. Meaning only one kind of program needs to be designed and printed each month.
 
-<img src="program.jpg">
+## anniversary logo, menu
 
 <img src="logo-60.jpg">
+part of the ne identity is also a menu for a bar which is a part of the theatre.
+And a special version of the logo celebrating the 60 years anniversary.
 
+## gallery poster
 
+<img src="gallery-poster.jpg">
 
+Theatre spaces also host vernisages for and adjoining galllery, those are identified by a poster  with different backghround color
+
+<img src="gate.jpg">
 
 
 # Work
