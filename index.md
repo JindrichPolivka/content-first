@@ -15,13 +15,13 @@ In case of this format not being applicable, the name of the play and castin cha
 
 Performances aiming at children use a full color image and carrry a  „for children“ tag.
                                                                                                                                                       
-<img align="right" width="600" height="820" src="posters.jpg">
+<img src="posters.jpg">
 
 All information in the program follows typographical rules set fo our posters. Hosting performance falls in line chronologically, but is highlighted with horizontal lines.
 
 Two prints of the program can be placed into the information display continuusly flowing from one side to the next. Meaning only one kind of program needs to be designed and printed each month.
 
-<img align="right" width="600" height="500" src="program.jpg">
+<img src="program.jpg">
 
 
 
