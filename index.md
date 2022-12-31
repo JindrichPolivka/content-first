@@ -5,7 +5,7 @@
 # Visual identity for a small Prague  theatre
 The plain look reflects look of the stage and auditorium as well as nature of the plays presented in it. These often use little to none in terms of scenery and costumes. The stage also host intimate musical performances and book readings besides theatrical plays.
 
-<img src= "logo-process.jpg"
+<img src="logo-process.jpg">
 
 The new logo matches look of the sign that has been hanging over the front entrance forever and so it already works as a part of the theatres identity. The word „DIVADLO“ is ommited in our logo as viola is a name that brings enough recognition in itself. Further it has been only slightly adjustedto appear better in print
 
